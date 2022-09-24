@@ -27,6 +27,10 @@
 .App-link {
   color: #61dafb;
 }
+#droppable{
+  height: 200px;
+  width: 200px;
+}
 
 @keyframes App-logo-spin {
   from {
@@ -36,3 +40,5 @@
     transform: rotate(360deg);
   }
 }
+
+
